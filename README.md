@@ -28,3 +28,11 @@ Note：小组成员分别来自珠海、香港、澳门三地，所以取名Sand
 2. 增加难度，加入血量，漏掉香蕉掉血
 3. 增加关卡，关卡难度越高，香蕉掉落速度越快
 4. 增加游戏道具，增加生命值道具，分身道具等等
+
+# Note
+
+作业一 飞机大战：https://github.com/BaconFan612/Battle-AirPlane
+
+作业二 小猴子爱香蕉：https://github.com/BaconFan612/Monkey-Want-Banana
+
+作业三 数据分析程序：https://github.com/BaconFan612/Text-Data-Analysis
